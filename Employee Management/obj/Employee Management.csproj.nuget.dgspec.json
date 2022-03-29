@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Capstone\\Employee-MS\\Employee Management\\Employee Management.csproj": {}
+    "C:\\Users\\Riddhi Patel\\Source\\Repos\\NewRepo\\Employee Management\\Employee Management.csproj": {}
   },
   "projects": {
-    "E:\\Capstone\\Employee-MS\\Employee Management\\Employee Management.csproj": {
+    "C:\\Users\\Riddhi Patel\\Source\\Repos\\NewRepo\\Employee Management\\Employee Management.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Capstone\\Employee-MS\\Employee Management\\Employee Management.csproj",
+        "projectUniqueName": "C:\\Users\\Riddhi Patel\\Source\\Repos\\NewRepo\\Employee Management\\Employee Management.csproj",
         "projectName": "Employee Management",
-        "projectPath": "E:\\Capstone\\Employee-MS\\Employee Management\\Employee Management.csproj",
-        "packagesPath": "C:\\Users\\Abhishek\\.nuget\\packages\\",
-        "outputPath": "E:\\Capstone\\Employee-MS\\Employee Management\\obj\\",
+        "projectPath": "C:\\Users\\Riddhi Patel\\Source\\Repos\\NewRepo\\Employee Management\\Employee Management.csproj",
+        "packagesPath": "C:\\Users\\Riddhi Patel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Riddhi Patel\\Source\\Repos\\NewRepo\\Employee Management\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Abhishek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Riddhi Patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
