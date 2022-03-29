@@ -1,0 +1,46 @@
+﻿@model IEnumerable<AssignTask>
+
+@{
+    ViewBag.Title = "AssignTask List";
+}
+<h1 class="text-center">Assign Task List</h1>
+<hr />
+
+<a asp-controller="AssignTask" asp-action="Create" style="width:auto" class="btn btn-primary m-1">Create Task</a>
+
+<table class="table mt-2">
+    <thead class="thead-light">
+        <tr>
+            
+            <th>Task Name</th>
+            <th>Decription</th>
+            <th>Priority</th>
+           @* <th>Employee</th>*@
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var assignTask in Model)
+        {
+            <tr>
+               
+                <td>@assignTask.AssignTaskName</td>
+                <td>@assignTask.AssignTaskDec</td>
+                <td>@assignTask.Priority</td>
+               @* <td>@assignTask.EmployeesList.ToList()</td>*@
+                <td>
+                    <div>
+
+                         <a asp-action="Edit" asp-route-id="@assignTask.AssignTaskId"> <i class="nav-icon fas fa-pen"></i></a> |
+                          <a asp-action="Delete" asp-route-id="@assignTask.AssignTaskId"> <i class="nav-icon fas fa-trash"></i></a>
+                    </div>
+                    
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script src="~/js/customScript.js"></script>
+}
