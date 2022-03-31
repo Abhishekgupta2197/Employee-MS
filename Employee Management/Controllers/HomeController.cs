@@ -83,6 +83,7 @@ namespace Employee_Management.Controllers
                 {
                     Name = model.Name,
                     Email = model.Email,
+                    Password = model.Password,
                     Department = department,
                     Position = position,
                     Schedule = schedule,
@@ -124,6 +125,7 @@ namespace Employee_Management.Controllers
                 ID = employee.ID,
                 Name = employee.Name,
                 Email = employee.Email,
+                Password = employee.Password,
                 //Department = employee.Department,
                 ExistingPhotoPath = employee.PhotoPath
             };
@@ -139,6 +141,7 @@ namespace Employee_Management.Controllers
                 Employee employee = _employeeRepository.GetEmployee(model.ID);
                 employee.Name = model.Name;
                 employee.Email = model.Email;
+                employee.Password = model.Password; 
                 //employee.Department = model.Department;
                 if(model.Photo != null)
                 {
@@ -155,6 +158,12 @@ namespace Employee_Management.Controllers
                 return RedirectToAction("Index");
             }
             return View();
+        }
+
+        public IActionResult Delete(int id)
+        {
+            _employeeRepository.Delete(id);
+            return RedirectToAction("Index");
         }
 
     }

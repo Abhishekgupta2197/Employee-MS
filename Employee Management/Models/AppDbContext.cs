@@ -19,8 +19,9 @@ namespace Employee_Management.Models
         public DbSet<Schedule> Schedules { get; set; }
         public DbSet<Department> Departments { get; set; }
         public DbSet<AssignTask> AssignTasks { get; set; }
-
-        //public DbSet<Leave> Leaves { get; set; }
+        public DbSet<Leave> Leaves { get; set; }
+        public DbSet<Pay> Pays { get; set; }
+        //public DbSet<hour> Hours { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);

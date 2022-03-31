@@ -105,6 +105,7 @@ namespace Employee_Management.Controllers
                       
                         HttpContext.Session.SetString("Name", employee.Name);
                         HttpContext.Session.SetString("ID", Convert.ToString(employee.ID));
+                        HttpContext.Session.SetString("Role", "Emp");
 
 
                         return RedirectToAction("Index", "Dashboard"); 

@@ -128,11 +128,23 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="@Url.Action("Index", "AssignTask")"><i class="nav-icon fas fa-calendar"></i><span class="m-3"> Tasks</span> </a>
                             </li>
-                            @* <li class="nav-item">
-                                <a class="nav-link @Html.IsSelected(actions: "Index", controllers: "Leave")" href="@Url.Action("Index", "Leave")"><i class="nav-icon fas fa-calendar"></i><span> Leave Requests</span> </a>
-                                </li>*@
+                            <li class="nav-item">
+                                <a class="nav-link" href="@Url.Action("Index", "Leave")"><i class="nav-icon fas fa-user-clock"></i><span class="m-3"> Leave Requests</span> </a>
+                                </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="@Url.Action("Index", "Pay")"><i class="nav-icon fas fa-credit-card"></i><span class="m-3"> Pay</span> </a>
+                                </li>
                         }
-                       
+                        @if(@HttpContextAccessor.HttpContext.Session.GetString("ID") != null)
+                        {
+                             <li class="nav-item">
+                                <a class="nav-link" href="@Url.Action("EmpIndex", "AssignTask")"><i class="nav-icon fas fa-calendar"></i><span class="m-3"> Tasks</span> </a>
+                            </li>
+                             <li class="nav-item">
+                                <a class="nav-link" href="@Url.Action("EmpIndex", "Leave")"><i class="nav-icon fas fa-user-clock"></i><span class="m-3"> Leave Requests</span> </a>
+                             </li>     
+                        }
+
 
 
                     </ul>

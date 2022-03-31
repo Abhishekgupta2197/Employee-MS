@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Pay>
+
+@{
+    ViewBag.Title = "Pay List";
+}
+<h1 class="text-center">Pay List</h1>
+<hr />
+
+<a asp-controller="Pay" asp-action="Create" style="width:auto" class="btn btn-primary m-1">Create Task</a>
+
+<table class="table mt-2">
+    <thead class="thead-light">
+        <tr>
+            
+            <th>Employee Name</th>
+            <th>Amoount</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var pay in Model)
+        {
+            <tr>
+               
+                <td>@pay.EmpName</td>
+                <td>@pay.Amount</td>
+                <td>
+                    <div>
+
+                         <a asp-action="Edit" asp-route-id="@pay.PayId"> <i class="nav-icon fas fa-pen"></i></a> |
+                          <a asp-action="Delete" asp-route-id="@pay.PayId"> <i class="nav-icon fas fa-trash"></i></a>
+                    </div>
+                    
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script src="~/js/customScript.js"></script>
+}

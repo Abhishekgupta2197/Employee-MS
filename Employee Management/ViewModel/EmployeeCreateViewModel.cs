@@ -18,6 +18,11 @@ namespace Employee_Management.ViewModel
         [EmailAddress]
         [Remote(action: "isEmailInUse", controller: "Account")]
         public string Email { get; set; }
+
+        [Required]
+        public string Password { get; set; }
+
+
         [Required]
         public int DepartmentID { get; set; }
         public IEnumerable<Department> DepartmentList { get; set; }

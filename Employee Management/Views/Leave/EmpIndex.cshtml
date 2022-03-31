@@ -1,0 +1,43 @@
+﻿
+@model IEnumerable<Leave>
+
+@{
+    ViewBag.Title = "Leave List";
+}
+<h1 class="text-center">Leave List</h1>
+<hr />
+
+<a asp-controller="Leave" asp-action="Create" style="width:auto" class="btn btn-primary m-1">Create Leave</a>
+
+<table class="table mt-2">
+    <thead class="thead-light">
+        <tr>
+            
+            <th>Leave Title</th>
+            <th>Decription</th>
+            <th>Status</th>
+           @* <th>Employee</th>*@
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var leave in Model)
+        {
+            <tr>
+               <td>@leave.LeaveTitle</td>
+                <td>@leave.LeaveReason</td>
+                <td>@leave.ReasonStatus</td>
+                <td> 
+                    <div>
+                          <a asp-action="Delete" asp-route-id="@leave.LeaveId"> <i class="nav-icon fas fa-trash"></i></a>
+                    </div>
+                    
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script src="~/js/customScript.js"></script>
+}
