@@ -1,11 +1,14 @@
 ﻿using Employee_Management.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Linq;
+using System.Threading.Tasks;
 
 namespace Employee_Management.Controllers
 {
+    [AllowAnonymous]
     public class PayController : Controller
     {
         private readonly IPayRepository payRepository;        
@@ -44,6 +47,28 @@ namespace Employee_Management.Controllers
         }
 
         [HttpPost]
+        public async Task<ActionResult> PostToPaypall(Pay pay)
+        {
+            if (ModelState.IsValid)
+            {
+              //  using var client = new HttpClient();
+
+                string url = "https://www.sandbox.paypal.com/cgi-bing/webscr?cmd=_xclick&amount=" + pay.Amount
+                    + "&business=sb-kpmax15511933@personal.example.com&item_name=Paycheck_From_EMS&return=https://localhost:44324/Pay/Create";
+
+                Response.Redirect(url);
+
+              //  var result = await client.GetAsync(url);
+
+              //  payRepository.Add(pay);
+                //return PartialView("Create", position);
+              //  return RedirectToAction("Index");
+            }
+            return View();
+        }
+
+
+        [HttpPost]
         public IActionResult Create(Pay pay)
         {
             if (ModelState.IsValid)
@@ -75,6 +100,11 @@ namespace Employee_Management.Controllers
         {
             payRepository.Delete(id);
             return RedirectToAction("Index");
+        }
+
+        public IActionResult CheckOut()
+        {
+            return View();
         }
     }
 }

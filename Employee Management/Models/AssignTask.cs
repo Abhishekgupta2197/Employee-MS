@@ -14,6 +14,7 @@ namespace Employee_Management.Models
         public string AssignTaskDec { get; set; }
         public int AssignTaskEmployeeId { get; set; }
         public string Priority { get; set; }
+        public string AssignTaskStatus { get; set; }
         [NotMapped]
         public string EmpName { get; set; }
 

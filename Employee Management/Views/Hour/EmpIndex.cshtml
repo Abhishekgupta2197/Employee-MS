@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Hour>
+
+@{
+    ViewBag.Title = "Pay List";
+}
+<h1 class="text-center">Pay List</h1>
+<hr />
+
+@*<a asp-controller="Hour" asp-action="Create" style="width:auto" class="btn btn-primary m-1">Create New Log</a>*@
+
+<table class="table mt-2">
+    <thead class="thead-light">
+        <tr>
+            <th>Date(MM/DD/YYYY)</th>
+             <th>Time in</th>
+              <th>Time out</th>
+                <th>Break in</th>
+              <th>Break out</th>
+                 <th>Action </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var hour in Model.OrderBy(item => item.DataofJob))
+        {
+            <tr>
+                <td>@hour.DataofJob.Month/@hour.DataofJob.Day/@hour.DataofJob.Year </td>
+                 <td>@hour.TimeIn.TimeOfDay</td>
+                  <td>@hour.TimeOut.TimeOfDay</td>
+                   <td>@hour.BreakIn.TimeOfDay</td>
+                  <td>@hour.BreakOut.TimeOfDay</td>
+               <td>
+                    <div>
+                          <a asp-action="Delete" asp-route-id="@hour.HourId"> <i class="nav-icon fas fa-trash"></i></a>
+                    </div>
+                    
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script src="~/js/customScript.js"></script>
+}

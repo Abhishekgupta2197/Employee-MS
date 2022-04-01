@@ -71,6 +71,7 @@ namespace Employee_Management
             services.AddScoped<IAssignTaskRepository, AssignTaskRepository>();
             services.AddScoped<ILeaveRepository, LeaveRepository>();
             services.AddScoped<IPayRepository, PayRepository>();
+            services.AddScoped<IHourRepository, HourRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

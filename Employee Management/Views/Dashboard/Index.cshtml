@@ -77,3 +77,59 @@
     </div>
 </div>
 }
+else {
+<div class="row pt-md-5 mt-md-3 mb-5">
+     <div class="col-xl-3 col-sm-6 p-2">
+        <div class="card card-common">
+            <div class="card-body">
+                <div class="d-flex justify-content-between">
+                    @*<i class="fas fa-shopping-cart fa-3x text-warning"></i>*@
+                    <i class="far fa-clock fa-3x text-warning"></i>
+                    <div class="text-right text-secondary">
+                        <h5>Total Tasks</h5>
+                        <h3>@Model.EmpAssignTaskList</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer text-secondary">
+                <a asp-controller="AssignTask" asp-action="EmpIndex" class="btn btn-primary" style="width:auto">Task List</a>
+            </div>
+        </div>
+    </div>
+     <div class="col-xl-3 col-sm-6 p-2">
+        <div class="card card-common">
+            <div class="card-body">
+                <div class="d-flex justify-content-between">
+                    @*<i class="fas fa-shopping-cart fa-3x text-warning"></i>*@
+                    <i class="far fa-clock fa-3x text-warning"></i>
+                    <div class="text-right text-secondary">
+                        <h5>Total Leaves</h5>
+                        <h3>@Model.EmpLeaveList</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer text-secondary">
+                <a asp-controller="Leave" asp-action="EmpIndex" class="btn btn-primary" style="width:auto">Leave List</a>
+            </div>
+        </div>
+    </div>
+     <div class="col-xl-3 col-sm-6 p-2">
+        <div class="card card-common">
+            <div class="card-body">
+                <div class="d-flex justify-content-between">
+                    @*<i class="fas fa-shopping-cart fa-3x text-warning"></i>*@
+                    <i class="far fa-clock fa-3x text-warning"></i>
+                    <div class="text-right text-secondary">
+                        <h5>Total Worked Days</h5>
+                        <h3>@Model.EmpHourList</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer text-secondary">
+                <a asp-controller="Leave" asp-action="EmpIndex" class="btn btn-primary" style="width:auto">Hours List</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+}

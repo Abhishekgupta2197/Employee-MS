@@ -1,19 +1,23 @@
-﻿@model Pay
+﻿@using Microsoft.AspNetCore.Routing
+@model Pay 
 @{
-   
+
     ViewData["Title"] = "Edit AssingTask";
     Layout = "~/Views/Shared/_Layout.cshtml";
+
 }
+
 <h1>Create</h1>
 
-<h4>Task</h4>
+<h4>Pay</h4>
 <hr />
+@*
 <div class="row">
     <div class="col-md-4">
         <form enctype="multipart/form-data" asp-action="Create" method="post">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-       
-              <div class="form-group">
+
+            <div class="form-group">
                 <label asp-for="PayEmployeeId" class="control-label">Employee</label>
                 <select asp-for="PayEmployeeId" asp-items="@ViewBag.Employee" class="form-control">
                     <option value="">Please Select</option>
@@ -22,22 +26,64 @@
             </div>
             <div class="form-group">
                 <label asp-for="Amount" class="control-label"></label>
-                <input asp-for="Amount" class="form-control" />
+                <input asp-for="Amount" id="TotalAmt" onchange="updatehdnTotalAmt(this)" class="form-control" />
+
                 <span asp-validation-for="Amount" class="text-danger"></span>
             </div>
-           
+
             <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-primary" />
             </div>
-        </form>
+        
+        </form>*@
+
+     
+@using (Html.BeginForm("ValidateCommand", "PayPal"))
+{
+
+    <div class="row">
+    <div class="col-md-4">
+       
+
+
+    <div>
+        <table >
+            <tr>
+
+                <td>
+                    Employee or Vandor Name:
+                </td>
+                <td>
+                    <input type="text" name="product" value=""  />
+                  </td>
+            </tr>
+            <tr>
+                <td>
+                   Total PriceAmount:
+                </td>
+                <td>
+                    $<input type="text" name="totalPrice" value="0" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                </td>
+                <td>
+                    <input type="submit" name="btnConfirm" value="Check Out with Paypal"  class="btn btn-primary"/>
+                </td>
+            </tr>
+        </table>
     </div>
-</div>
+      </div>
+        </div>
+}
+
 
 <div>
     <a asp-action="Index">Back to List</a>
 </div>
 
 @section Scripts {
-    <script src="~/js/customScript.js"></script>
-   
+<script src="~/js/customScript.js"></script>
+
 }

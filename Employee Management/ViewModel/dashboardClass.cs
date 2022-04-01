@@ -12,5 +12,10 @@ namespace Employee_Management.ViewModel
         public IEnumerable<Employee> EmployeeList { get; set; }
         public IEnumerable<Position> PositionList { get; set; }
         public IEnumerable<Schedule> ScheduleList { get; set; }
+
+        public int EmpAssignTaskList { get; set; }
+        public int EmpLeaveList { get; set; }
+
+        public int EmpHourList { get; set; }
     }
 }

@@ -1,0 +1,65 @@
+﻿@model Hour
+@{
+   
+    ViewData["Title"] = "Edit Hour";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h1>Edit</h1>
+
+<h4>Hours</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form enctype="multipart/form-data" asp-action="Edit" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                 <input hidden asp-for="HourId" />
+             
+              <div class="form-group">
+                <label asp-for="HourEmployeeId" class="control-label">Employee</label>
+                <select asp-for="HourEmployeeId" asp-items="@ViewBag.Employee" class="form-control">
+                    <option value="">Please Select</option>
+                </select>
+                <span asp-validation-for="HourEmployeeId" class="text-danger"></span>
+            </div>
+              <div class="form-group">
+                <label asp-for="DataofJob" class="control-label"></label>
+                <input type="date" asp-for="DataofJob" class="form-control" />
+                <span asp-validation-for="DataofJob" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TimeIn" class="control-label"></label>
+                <input type="time" asp-for="TimeIn" class="form-control" />
+                <span asp-validation-for="TimeIn" class="text-danger"></span>
+            </div>
+             <div class="form-group">
+                <label asp-for="TimeOut" class="control-label"></label>
+                <input type="time" asp-for="TimeOut" class="form-control" />
+                <span asp-validation-for="TimeOut" class="text-danger"></span>
+            </div>
+             <div class="form-group">
+                <label asp-for="BreakIn" class="control-label"></label>
+                <input type="time" asp-for="BreakIn" class="form-control" />
+                <span asp-validation-for="BreakIn" class="text-danger"></span>
+            </div>
+             <div class="form-group">
+                <label asp-for="BreakOut" class="control-label"></label>
+                <input type="time" asp-for="BreakOut" class="form-control" />
+                <span asp-validation-for="BreakOut" class="text-danger"></span>
+            </div>
+           
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    <script src="~/js/customScript.js"></script>
+   
+}

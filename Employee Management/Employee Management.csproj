@@ -74,6 +74,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Views\PayPal\CancelFromPaypal.cshtml" />
+    <None Include="Views\PayPal\NotifyFromPaypal.cshtml" />
+    <None Include="Views\PayPal\RedirectFromPaypal.cshtml" />
+    <None Include="Views\PayPal\ValidateCommand.cshtml" />
     <None Include="wwwroot\Frontend\build\config\postcss.config.js" />
     <None Include="wwwroot\Frontend\build\config\rollup.config.js" />
     <None Include="wwwroot\Frontend\build\js\AdminLTE.js" />
