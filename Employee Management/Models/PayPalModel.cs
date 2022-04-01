@@ -37,8 +37,8 @@ namespace Employee_Management.Models
             //this.currency_code = ConfigurationManager.AppSettings["currency_code"];
 
             this.business = "sb-kpmax15511933@personal.example.com";
-            this.cancel_return = "https://localhost:44324/PayPal/CancelFromPaypal";
-            this.@return = "https://localhost:44324/Pay/CheckOut";
+            this.cancel_return = "http://abhishekg-001-site1.gtempurl.com/PayPal/CancelFromPaypal";
+            this.@return = "http://abhishekg-001-site1.gtempurl.com/Pay/CheckOut";
             if (useSandbox)
             {
                 this.actionURL = "https://www.sandbox.paypal.com/cgi-bin/webscr";
@@ -48,7 +48,7 @@ namespace Employee_Management.Models
                 this.actionURL = "https://www.sandbox.paypal.com/cgi-bin/webscr";
             }
             // We can add parameters here, for example OrderId, CustomerId, etc....
-            this.notify_url = "https://localhost:44324/PayPal/NotifyFromPaypal";
+            this.notify_url = "http://abhishekg-001-site1.gtempurl.com/PayPal/NotifyFromPaypal";
             // We can add parameters here, for example OrderId, CustomerId, etc....
             this.currency_code = "CAD";
 
