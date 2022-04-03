@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Employee Management",
+    "\\Employee Management\\Views",
+    "\\Employee Management\\Views\\Pay"
   ],
-  "SelectedNode": "\\C:\\Users\\Riddhi Patel\\Source\\Repos\\NewRepo",
+  "SelectedNode": "\\Employee Management\\Views\\Pay\\Create.cshtml",
   "PreviewInSolutionExplorer": false
 }

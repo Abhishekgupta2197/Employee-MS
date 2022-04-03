@@ -746,3 +746,204 @@ E:\Capstone\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Employee Man
 E:\Capstone\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.dll
 E:\Capstone\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.pdb
 E:\Capstone\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.genruntimeconfig.cache
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.StaticWebAssets.xml
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.exe
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.deps.json
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.runtimeconfig.json
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.runtimeconfig.dev.json
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.pdb
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.Views.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Employee Management.Views.pdb
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.csproj.AssemblyReference.cache
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.AssemblyInfoInputs.cache
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.AssemblyInfo.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.csproj.CoreCompileInputs.cache
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.RazorAssemblyInfo.cache
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.RazorAssemblyInfo.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\staticwebassets\Employee Management.StaticWebAssets.Manifest.cache
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.TagHelpers.input.cache
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.TagHelpers.output.cache
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.RazorCoreGenerate.cache
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\AccessDenied.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUser.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListRoles.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListUsers.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserClaims.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserRole.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\AssignTask\Create.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\AssignTask\Edit.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\AssignTask\EmpIndex.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\AssignTask\Index.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Department\Create.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Department\Edit.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Department\Index.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Home\EmployeeNotFound.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Hour\Create.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Hour\Edit.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Hour\EmpIndex.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Hour\Index.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Leave\Create.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Leave\Edit.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Leave\EmpIndex.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Leave\Index.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\PayPal\CancelFromPaypal.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\PayPal\NotifyFromPaypal.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\PayPal\RedirectFromPaypal.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\PayPal\ValidateCommand.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Pay\CheckOut.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Pay\Create.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Pay\Edit.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Pay\Index.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Position\Create.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Position\Edit.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Position\Index.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Schedule\Create.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Schedule\Edit.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Schedule\Index.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.RazorTargetAssemblyInfo.cache
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.RazorTargetAssemblyInfo.cs
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.Views.pdb
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.csproj.CopyComplete
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.dll
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.pdb
+C:\Users\ayush\Source\Repos\Abhishekgupta2197\Employee-MS\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.genruntimeconfig.cache

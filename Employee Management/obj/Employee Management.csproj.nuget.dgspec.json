@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Capstone\\Employee-MS\\Employee Management\\Employee Management.csproj": {}
+    "C:\\Users\\ayush\\source\\repos\\Abhishekgupta2197\\Employee-MS\\Employee Management\\Employee Management.csproj": {}
   },
   "projects": {
-    "E:\\Capstone\\Employee-MS\\Employee Management\\Employee Management.csproj": {
+    "C:\\Users\\ayush\\source\\repos\\Abhishekgupta2197\\Employee-MS\\Employee Management\\Employee Management.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Capstone\\Employee-MS\\Employee Management\\Employee Management.csproj",
+        "projectUniqueName": "C:\\Users\\ayush\\source\\repos\\Abhishekgupta2197\\Employee-MS\\Employee Management\\Employee Management.csproj",
         "projectName": "Employee Management",
-        "projectPath": "E:\\Capstone\\Employee-MS\\Employee Management\\Employee Management.csproj",
-        "packagesPath": "C:\\Users\\Abhishek\\.nuget\\packages\\",
-        "outputPath": "E:\\Capstone\\Employee-MS\\Employee Management\\obj\\",
+        "projectPath": "C:\\Users\\ayush\\source\\repos\\Abhishekgupta2197\\Employee-MS\\Employee Management\\Employee Management.csproj",
+        "packagesPath": "C:\\Users\\ayush\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ayush\\source\\repos\\Abhishekgupta2197\\Employee-MS\\Employee Management\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Abhishek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ayush\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
